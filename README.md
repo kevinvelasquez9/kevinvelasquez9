@@ -1,6 +1,6 @@
 ### Hey there, I’m Kevin!
 
-I am a sophomore studying CS at Johns Hopkins University.
+I'm a sophomore studying CS at Johns Hopkins University.
 
 In my free time, I'm also a plant dad, casual chess player, and a gym enthusiast. 🌱 ♟️ 🏋️‍♂️
 
